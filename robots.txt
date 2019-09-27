@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jotohsheef.voicenotifies.com/sitemap.xml
